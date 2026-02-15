@@ -1,0 +1,6 @@
+calc_iqr                Calculate the interquartile range (IQR)
+calc_mean               Calculate the mean of a numeric vector
+calc_median             Calculate the median of a numeric vector
+calc_mode               Calculate the mode of a numeric vector
+calc_q1                 Calculate the first quartile (Q1)
+calc_q3                 Calculate the third quartile (Q3)

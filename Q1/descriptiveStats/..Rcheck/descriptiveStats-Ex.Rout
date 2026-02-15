@@ -1,0 +1,179 @@
+
+R version 4.5.2 (2025-10-31) -- "[Not] Part in a Rumble"
+Copyright (C) 2025 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin20
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> pkgname <- "descriptiveStats"
+> source(file.path(R.home("share"), "R", "examples-header.R"))
+> options(warn = 1)
+> library('descriptiveStats')
+> 
+> base::assign(".oldSearch", base::search(), pos = 'CheckExEnv')
+> base::assign(".old_wd", base::getwd(), pos = 'CheckExEnv')
+> cleanEx()
+> nameEx("calc_iqr")
+> ### * calc_iqr
+> 
+> flush(stderr()); flush(stdout())
+> 
+> ### Name: calc_iqr
+> ### Title: Calculate the interquartile range (IQR)
+> ### Aliases: calc_iqr
+> 
+> ### ** Examples
+> 
+> calc_iqr(c(1, 2, 3, 4))
+[1] 1.5
+> calc_iqr(c(1, 2, NA, 10))
+[1] 4.5
+> calc_iqr(c(NA, NA))
+Warning in calc_iqr(c(NA, NA)) : All values are NA
+[1] NA
+> 
+> 
+> 
+> 
+> cleanEx()
+> nameEx("calc_mean")
+> ### * calc_mean
+> 
+> flush(stderr()); flush(stdout())
+> 
+> ### Name: calc_mean
+> ### Title: Calculate the mean of a numeric vector
+> ### Aliases: calc_mean
+> 
+> ### ** Examples
+> 
+> calc_mean(c(1, 2, 3, 4))
+[1] 2.5
+> calc_mean(c(1, 2, NA, 4))
+[1] 2.333333
+> calc_mean(c(NA, NA))
+Warning in calc_mean(c(NA, NA)) : All values are NA
+[1] NA
+> 
+> 
+> 
+> 
+> cleanEx()
+> nameEx("calc_median")
+> ### * calc_median
+> 
+> flush(stderr()); flush(stdout())
+> 
+> ### Name: calc_median
+> ### Title: Calculate the median of a numeric vector
+> ### Aliases: calc_median
+> 
+> ### ** Examples
+> 
+> calc_median(c(1, 2, 3, 4))
+[1] 2.5
+> calc_median(c(1, 2, NA, 100))
+[1] 2
+> calc_median(c(NA, NA))
+Warning in calc_median(c(NA, NA)) : All values are NA
+[1] NA
+> 
+> 
+> 
+> 
+> cleanEx()
+> nameEx("calc_mode")
+> ### * calc_mode
+> 
+> flush(stderr()); flush(stdout())
+> 
+> ### Name: calc_mode
+> ### Title: Calculate the mode of a numeric vector
+> ### Aliases: calc_mode
+> 
+> ### ** Examples
+> 
+> calc_mode(c(1, 2, 2, 3))
+[1] 2
+> calc_mode(c(1, 1, 2, 2))
+[1] 1
+> calc_mode(c(NA, NA))
+Warning in calc_mode(c(NA, NA)) : All values are NA
+[1] NA
+> 
+> 
+> 
+> 
+> cleanEx()
+> nameEx("calc_q1")
+> ### * calc_q1
+> 
+> flush(stderr()); flush(stdout())
+> 
+> ### Name: calc_q1
+> ### Title: Calculate the first quartile (Q1)
+> ### Aliases: calc_q1
+> 
+> ### ** Examples
+> 
+> calc_q1(c(1, 2, 3, 4))
+[1] 1.75
+> calc_q1(c(1, 2, NA, 10))
+[1] 1.5
+> calc_q1(c(NA, NA))
+Warning in calc_q1(c(NA, NA)) : All values are NA
+[1] NA
+> 
+> 
+> 
+> 
+> cleanEx()
+> nameEx("calc_q3")
+> ### * calc_q3
+> 
+> flush(stderr()); flush(stdout())
+> 
+> ### Name: calc_q3
+> ### Title: Calculate the third quartile (Q3)
+> ### Aliases: calc_q3
+> 
+> ### ** Examples
+> 
+> calc_q3(c(1, 2, 3, 4))
+[1] 3.25
+> calc_q3(c(1, 2, NA, 10))
+[1] 6
+> calc_q3(c(NA, NA))
+Warning in calc_q3(c(NA, NA)) : All values are NA
+[1] NA
+> 
+> 
+> 
+> 
+> ### * <FOOTER>
+> ###
+> cleanEx()
+> options(digits = 7L)
+> base::cat("Time elapsed: ", proc.time() - base::get("ptime", pos = 'CheckExEnv'),"\n")
+Time elapsed:  0.133 0.02 0.171 0 0 
+> grDevices::dev.off()
+null device 
+          1 
+> ###
+> ### Local variables: ***
+> ### mode: outline-minor ***
+> ### outline-regexp: "\\(> \\)?### [*]+" ***
+> ### End: ***
+> quit('no')

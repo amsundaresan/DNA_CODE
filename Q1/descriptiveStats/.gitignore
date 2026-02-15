@@ -1,5 +1,6 @@
-.Rproj.user
 *.Rproj
+.Rproj.user
+.Rproj.user
 .Rhistory
 .RData
 .httr-oauth
@@ -7,5 +8,3 @@
 .quarto
 .Rapp.history
 .Ruserdata
-.Rcheck
-__pycache__/

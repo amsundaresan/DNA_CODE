@@ -1,0 +1,359 @@
+Hmm ... looks like a package
+Converting parsed Rd's to LaTeX 
+Creating pdf output from LaTeX ...
+
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+LaTeX2e <2018-12-01>
+(./Rd2.tex
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/bk10.clo))
+(/Library/Frameworks/R.framework/Resources/share/texmf/tex/latex/Rd.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/bm.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/alltt.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.dfu)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/jknapltx/mathrsfs.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/inconsolata/zi4.sty
+`inconsolata-zi4' v1.112, 2017/01/04 Text macros for Inconsolata (msharpe)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/keyval.tex)))))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/makeidx.sty)
+Writing index file Rd2.idx
+No file Rd2.aux.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ptm.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/inconsolata/t1zi4.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/jknapltx/ursfs.fd) [1{/usr/local/
+texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+No file Rd2.ind.
+[4]
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.aux)
+
+Package rerunfilecheck Warning: File `Rd2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ ){/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
+exlive/2019/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc}</usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/l
+ocal/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texli
+ve/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/te
+xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/f
+onts/type1/urw/times/utmri8a.pfb>
+Output written on Rd2.pdf (4 pages, 72041 bytes).
+Transcript written on Rd2.log.
+This is makeindex, version 2.15 [TeX Live 2019] (kpathsea + Thai support).
+Scanning input file Rd2.idx....done (6 entries accepted, 0 rejected).
+Sorting entries....done (15 comparisons).
+Generating output file Rd2.ind....done (10 lines written, 0 warnings).
+Output written in Rd2.ind.
+Transcript written in Rd2.ilg.
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+LaTeX2e <2018-12-01>
+(./Rd2.tex
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/bk10.clo))
+(/Library/Frameworks/R.framework/Resources/share/texmf/tex/latex/Rd.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/bm.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/alltt.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.dfu)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/jknapltx/mathrsfs.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/inconsolata/zi4.sty
+`inconsolata-zi4' v1.112, 2017/01/04 Text macros for Inconsolata (msharpe)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/keyval.tex)))))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/makeidx.sty)
+Writing index file Rd2.idx
+
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.aux) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ptm.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.out)
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.out)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/inconsolata/t1zi4.fd)
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.toc (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/jknapltx/ursfs.fd)) [1{/usr/local
+/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.ind [4] [5])
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.aux)
+
+Package rerunfilecheck Warning: File `Rd2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ ){/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
+exlive/2019/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc}</usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/l
+ocal/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texli
+ve/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/te
+xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/f
+onts/type1/urw/times/utmri8a.pfb>
+Output written on Rd2.pdf (5 pages, 73548 bytes).
+Transcript written on Rd2.log.
+This is makeindex, version 2.15 [TeX Live 2019] (kpathsea + Thai support).
+Scanning input file Rd2.idx....done (6 entries accepted, 0 rejected).
+Sorting entries....done (15 comparisons).
+Generating output file Rd2.ind....done (10 lines written, 0 warnings).
+Output written in Rd2.ind.
+Transcript written in Rd2.ilg.
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+LaTeX2e <2018-12-01>
+(./Rd2.tex
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/bk10.clo))
+(/Library/Frameworks/R.framework/Resources/share/texmf/tex/latex/Rd.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/bm.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/alltt.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.dfu)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/jknapltx/mathrsfs.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/inconsolata/zi4.sty
+`inconsolata-zi4' v1.112, 2017/01/04 Text macros for Inconsolata (msharpe)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/keyval.tex)))))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/makeidx.sty)
+Writing index file Rd2.idx
+
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.aux) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ptm.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.out)
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.out)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/inconsolata/t1zi4.fd)
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.toc (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/jknapltx/ursfs.fd)) [1{/usr/local
+/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.ind [5] [6])
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.aux) ){/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.
+enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc
+}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/inconsolata/Inconsolata
+-zi4r.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
+</usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/loca
+l/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/
+2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Rd2.pdf (6 pages, 74177 bytes).
+Transcript written on Rd2.log.
+This is makeindex, version 2.15 [TeX Live 2019] (kpathsea + Thai support).
+Scanning input file Rd2.idx....done (6 entries accepted, 0 rejected).
+Sorting entries....done (15 comparisons).
+Generating output file Rd2.ind....done (10 lines written, 0 warnings).
+Output written in Rd2.ind.
+Transcript written in Rd2.ilg.
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+LaTeX2e <2018-12-01>
+(./Rd2.tex
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/bk10.clo))
+(/Library/Frameworks/R.framework/Resources/share/texmf/tex/latex/Rd.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/bm.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/alltt.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.dfu)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/jknapltx/mathrsfs.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/inconsolata/zi4.sty
+`inconsolata-zi4' v1.112, 2017/01/04 Text macros for Inconsolata (msharpe)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/keyval.tex)))))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/makeidx.sty)
+Writing index file Rd2.idx
+
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.aux) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ptm.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.out)
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.out)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/inconsolata/t1zi4.fd)
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.toc (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/jknapltx/ursfs.fd)) [1{/usr/local
+/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.ind [5] [6])
+(/private/var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T/RtmpKQCDKm/Rd2pdf1e76
+45640756/Rd2.aux) ){/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.
+enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc
+}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/inconsolata/Inconsolata
+-zi4r.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
+</usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/loca
+l/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/
+2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Rd2.pdf (6 pages, 74207 bytes).
+Transcript written on Rd2.log.
+Saving output to ‘descriptiveStats-manual.pdf’ ...
+Done
+You may want to clean up by 'rm -Rf /var/folders/np/qb5y3rdn3rd32xp9llkxh6900000gn/T//RtmpKQCDKm/Rd2pdf1e7645640756'
