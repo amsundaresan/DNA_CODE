@@ -10,3 +10,4 @@
 .Rcheck
 __pycache__/
 *.docx
+.vscode/
