@@ -1,4 +1,4 @@
-# DNA Code Challenge
+# DNA CODE REPO
 
 A clinical trial and SDTM/ADaM-focused codebase containing R packages, R scripts for domain creation and analysis, a FastAPI service for AE querying, and an AI-powered clinical trial data agent.
 
